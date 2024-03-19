@@ -50,7 +50,7 @@
 
 <hr>
 
-<h3> <strong> git clone https://github.com/AmirHBana/https://github.com/AmirHBana/Flutter-application-i-am-rich.git </strong></h3>
+<h3> <strong>  $> git clone https://github.com/AmirHBana/https://github.com/AmirHBana/Flutter-application-i-am-rich.git </strong></h3>
 
 <br><br>
 
@@ -58,7 +58,7 @@
 
 <hr>
 
-<h3> <strong> flutter install </strong></h3>
+<h3> <strong>  $> flutter install </strong></h3>
 
 <br><br>
 
@@ -66,7 +66,7 @@
 
 <hr>
 
-<h3> <strong> flutter run </strong></h3>
+<h3> <strong>  $> flutter run </strong></h3>
 
 <br>
 
