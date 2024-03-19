@@ -44,11 +44,11 @@
 
 <h3> 👷 How to install guied </h3>
 
-<hr>
+
 
 <p> Clone this project </p>
 
-<hr><br>
+<hr>
 
 <h3> <strong> git clone https://github.com/AmirHBana/https://github.com/AmirHBana/Flutter-application-i-am-rich.git </strong></h3>
 
