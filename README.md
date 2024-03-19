@@ -52,7 +52,7 @@
 
 <h3> <strong> git clone https://github.com/AmirHBana/https://github.com/AmirHBana/Flutter-application-i-am-rich.git </strong></h3>
 
-<hr>
+<br><br>
 
 <p> Install dependencies </p>
 
@@ -60,7 +60,7 @@
 
 <h3> <strong> flutter install </strong></h3>
 
-<hr>
+<br><br>
 
 <p> Start development server </p>
 
@@ -68,7 +68,7 @@
 
 <h3> <strong> flutter run </strong></h3>
 
-<hr>
+<br>
 
 <br>
 
