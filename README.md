@@ -2,6 +2,7 @@
 
 <hr>
 
+<br><br>
 <h3> I'm rich app history </h3>
 
 <hr>
@@ -16,6 +17,7 @@
 
 </p>
 
+<br>
 <br>
 
 <h3> Product information </h3>
