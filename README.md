@@ -20,15 +20,17 @@
 <br>
 
 <h3> Product information </h3>
-
+<hr>
 <br>
+
+
 
 <p> A new Flutter application that says "I am RICH!" with a diamond image, very simple app for beginners. <br>
     This is my first application develope with flutter framework
 </p>
 
 <br>
-<br>
+<hr>
 
 
 <h3> Preview of the App </h3>
