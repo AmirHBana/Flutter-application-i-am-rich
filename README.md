@@ -29,11 +29,10 @@
     This is my first application develope with flutter framework
 </p>
 
-<br>
 <hr>
+<br><br>
 
-
-<h3> Preview of the App </h3>
+<h3> 🚀 Preview of the App </h3>
 
 <hr>
 <br>
@@ -42,7 +41,7 @@
 
 <br>
 
-<h3> How to install guied </h3>
+<h3> 👷 How to install guied </h3>
 <hr>
 
 <p> Clone this project </p>
