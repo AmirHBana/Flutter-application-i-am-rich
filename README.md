@@ -1,6 +1,5 @@
 <h2> I'm <strong> RICH Applicaton </strong> with Flutter a framework of Dart language 💎 </h2>
 
-<br>
 <hr>
 
 <h3> I'm rich app history </h3>
@@ -42,6 +41,7 @@
 <br>
 
 <h3> 👷 How to install guied </h3>
+
 <hr>
 
 <p> Clone this project </p>
