@@ -50,23 +50,26 @@
 
 <hr>
 
-<h3> <strong>  $> git clone https://github.com/AmirHBana/https://github.com/AmirHBana/Flutter-application-i-am-rich.git </strong></h3>
+<br>
 
-<br><br>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> git clone https://github.com/AmirHBana/https://github.com/AmirHBana/Flutter-application-i-am-rich.git</pre></div>
+
+<br>
 
 <p> Install dependencies </p>
 
 <hr>
 
-<h3> <strong>  $> flutter install </strong></h3>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> flutter install</pre></div>
 
 <br><br>
 
 <p> Start development server </p>
 
 <hr>
+<br>
 
-<h3> <strong>  $> flutter run </strong></h3>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> flutter run</pre></div>
 
 <br>
 
